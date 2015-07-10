@@ -1,6 +1,10 @@
 # Image_to_Text-_n_Html_Art
 You can convert images to beautiful looking text and html arts to send them as greetings.
 
+####Future Updates:
+* GUI will be added to select images and other parameters.
+* An exe will be created for ease of use in windows, without any python installation.
+
 ###Usage
 Go to the parent directory, i.e. the directory in which **text_n_html_art.py** resides.
 
@@ -30,8 +34,14 @@ __pixel__ : It is for defining the size of pixel in text art, it has no affect o
 
 **harry_html.html** will look like this:
 
+*This image is made up of "#" characters, after generating the html you can zoom and check it for yourself.*
+
 ![harry_html.png in static_images folder](/static_images/harry_html.png)
 
 **harry_txt.html** will look like this:
 
 ![harry_text.png in static_images folder](/static_images/harry_text.png)
+
+
+###Dependencies
+Python2.7 should be installed on your computer.
